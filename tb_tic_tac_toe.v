@@ -1,5 +1,4 @@
 `timescale 100ns / 1ns
-// fpga4student.com: FPGA projects, Verilog projects, VHDL projects
 // Verilog testbench code for TIC TAC TOE GAME 
 
 module tb_tic_tac_toe;
